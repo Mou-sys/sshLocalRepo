@@ -1,3 +1,2 @@
 I am learning Git.
 I am learning Git to use DevOps.
-Git has 3 parts: working Dir, Staged Area, Local Repository.
