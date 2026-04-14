@@ -1,2 +1,3 @@
 I am learning Git.
 I am learning Git to use DevOps.
+I enjoy learning Git.
